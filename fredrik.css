@@ -1,0 +1,15 @@
+
+
+body {
+    font-family: "Times New Roman", Times, serif;
+    background-color: #c1d0ec;
+    font-size: large;
+}
+
+h1 {
+    font-size: 14px;
+}
+
+a { 
+    color: inherit; 
+} 
